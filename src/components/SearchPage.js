@@ -63,6 +63,15 @@ function SearchPage() {
       title="The letter that revealed Ramanujan's genius"
       image="https://i.ytimg.com/vi/XFsuRxospbU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALUwr00PL2cjXXzZKieQ-podwzFw"
       />
+      <VideoRow
+      views="2.4M"
+      subs="120K"
+      description="A math lesson about logarithms inspired by the legendary painter Bob Ross. 💌  Subscribe to my channel to see more videos like this: https://www.youtube.com/user/tibees"
+      timestamp="1 year ago"
+      channel="Tibees"
+      title="Logarithms explained Bob Ross style"
+      image="https://i.ytimg.com/vi/up21mvokyQ4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOPa9r1B5d40oSqU1aH10thi1x1A"
+      />
     </div>
   );
 }
