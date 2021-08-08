@@ -28,13 +28,49 @@ function SearchPage() {
       <hr/>
 
       <VideoRow
-      views="1.2M"
-      subs="120K"
-      description="You are what you eat, and I'm an ass."
+      views="52K"
+      subs="692K"
+      description="Timestamps: 0:00 - Intro 1:18 - A look at the questions 4:35 - My solutions to Q2 9:16 - Patron Cat of the Day."
       timestamp="3 days ago"
-      channel="Joma in NYC"
-      title="what I eat in a day | living alone in nyc"
-      image="https://i.ytimg.com/vi/C0f2pu0EVSg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqibHa4gIdE2ZjbMWkexFu4wiiPQ"
+      channel="Tibees"
+      title="INSANE exam questions from the University of Tokyo"
+      image="https://i.ytimg.com/vi/kh8bySuvuxE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLIIFT9Ne6Vipr-bUQc23qLgdV1w"
+      />
+      <VideoRow
+      views="68K"
+      subs="120K"
+      description="This video is sponsored by Brilliant."
+      timestamp="1 week ago"
+      channel="Tibees"
+      title="Trying to read the books Terence Tao read as a child"
+      image="https://i.ytimg.com/vi/RoObJcYpwZE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFg727vWdZ5m6fKHnMd3ZYcao8Nw"
+      />
+      <VideoRow
+      views="629K"
+      subs="120K"
+      description="The full report (PDF): http://math.fau.edu/yiu/Oldwebsites/MPS2010/TerenceTao1984.pdf Terence did note in his answers that ..."
+      timestamp="3 weeks ago"
+      channel="Tibees"
+      title="The Test That Terence Tao Aced at Age 7"
+      image="https://i.ytimg.com/vi/I_IFTN2Toak/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWxRSLqwFkAHlqasdOuYNV0XO4fA"
+      />
+      <VideoRow
+      views="1.5M"
+      subs="120K"
+      description="Ramanujan was a self-taught Indian mathematician who travelled to England to work with professor G H Hardy after sending him ..."
+      timestamp="11 months ago"
+      channel="Tibees"
+      title="The letter that revealed Ramanujan's genius"
+      image="https://i.ytimg.com/vi/XFsuRxospbU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALUwr00PL2cjXXzZKieQ-podwzFw"
+      />
+      <VideoRow
+      views="2.4M"
+      subs="120K"
+      description="A math lesson about logarithms inspired by the legendary painter Bob Ross. 💌  Subscribe to my channel to see more videos like this: https://www.youtube.com/user/tibees"
+      timestamp="1 year ago"
+      channel="Tibees"
+      title="Logarithms explained Bob Ross style"
+      image="https://i.ytimg.com/vi/up21mvokyQ4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOPa9r1B5d40oSqU1aH10thi1x1A"
       />
     </div>
   );
